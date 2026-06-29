@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: Please cite the following works when using these maps.
+type: map-generating software
+authors:
+  - family-names: Tran
+    given-names: Livia
+  - family-names: Mack
+    given-names: Steven
+doi: 10.32614/cran.package.sshaarp
+identifiers:
+  - type: doi
+    value: 10.32614/cran.package.sshaarp
+  - type: url
+    value: http://dx.doi.org/10.32614/CRAN.package.SSHAARP
+title: 'SSHAARP: Searching Shared HLA Amino Acid Residue Prevalence'
+url: http://dx.doi.org/10.32614/CRAN.package.SSHAARP
+
+preferred-citation:
+  abstract: |-
+    <jats:title>Abstract</jats:title>
+                   <jats:p>The Allele Frequency Net Database (AFND, www.allelefrequencies.net) provides the scientific community with a freely available repository for the storage of frequency data (alleles, genes, haplotypes and genotypes) related to human leukocyte antigens (HLA), killer-cell immunoglobulin-like receptors (KIR), major histocompatibility complex Class I chain related genes (MIC) and a number of cytokine gene polymorphisms in worldwide populations. In the last five years, AFND has become more popular in terms of clinical and scientific usage, with a recent increase in genotyping data as a necessary component of Short Population Report article submissions to another scientific journal. In addition, we have developed a user-friendly desktop application for HLA and KIR genotype/population data submissions. We have also focused on classification of existing and new data into ‘gold–silver–bronze’ criteria, allowing users to filter and query depending on their needs. Moreover, we have also continued to expand other features, for example focussed on HLA associations with adverse drug reactions. At present, AFND contains &gt;1600 populations from &gt;10 million healthy individuals, making AFND a valuable resource for the analysis of some of the most polymorphic regions in the human genome.</jats:p>
+  authors:
+    - family-names: Gonzalez-Galarza
+      given-names: "Faviel F"
+    - family-names: McCabe
+      given-names: Antony
+    - family-names: Santos
+      given-names: "Eduardo J"
+    - family-names: Jones
+      given-names: James
+    - family-names: Takeshita
+      given-names: Louise
+    - family-names: Ortega-Rivera
+      given-names: "Nestor D"
+    - family-names: Cid-Pavon
+      given-names: "Glenda M Del"
+    - family-names: Ramsbottom
+      given-names: Kerry
+    - family-names: Ghattaoraya
+      given-names: Gurpreet
+    - family-names: Alfirevic
+      given-names: Ana
+      orcid: https://orcid.org/0000-0002-2801-9817
+    - family-names: Middleton
+      given-names: Derek
+    - family-names: Jones
+      given-names: "Andrew R"
+      orcid: https://orcid.org/0000-0001-6118-9327
+  doi: 10.1093/nar/gkz1029
+  identifiers:
+    - type: doi
+      value: 10.1093/nar/gkz1029
+    - type: url
+      value: http://dx.doi.org/10.1093/nar/gkz1029
+    - type: other
+      value: urn:issn:0305-1048
+  title: >-
+    Allele frequency net database (AFND) 2020 update: gold-standard data
+    classification, open access genotype data and new query tools
+  url: http://dx.doi.org/10.1093/nar/gkz1029
+  database: Crossref
+  date-published: 2019-11-13
+  year: 2019
+  month: 11
+  issn: 0305-1048
+  journal: Nucleic Acids Research
+  languages:
+    - en
+  publisher:
+    name: Oxford University Press (OUP)
+  type: article
